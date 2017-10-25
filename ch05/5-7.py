@@ -21,3 +21,4 @@ button1.pack()
 button2 = Button(top, text='QUIT', command=top.quit, bg='red', fg='white')
 button2.pack()
 
+mainloop()
